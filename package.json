@@ -1,0 +1,14 @@
+{
+  "name": "ecs-launcher",
+  "version": "1.0.0",
+  "description": "AWS Lambda function which launches Docker images on Amazon ECS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Róbert Selvek @ Fleetlog",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.6.4"
+  }
+}
